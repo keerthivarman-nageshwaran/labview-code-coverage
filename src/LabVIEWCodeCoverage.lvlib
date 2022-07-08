@@ -5,5 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="AllContexts.vi" Type="VI" URL="../SubVis/AllContexts.vi"/>
+	<Item Name="BlockDiagramPath.vi" Type="VI" URL="../SubVis/BlockDiagramPath.vi"/>
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
